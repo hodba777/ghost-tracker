@@ -20,3 +20,4 @@ entry 9 # Запись в лог
 entry 10 # Запись в лог
 entry 1 # Записываем лог
 entry 1
+entry 2
